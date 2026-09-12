@@ -1,0 +1,6 @@
+{
+  "name": "N5 Japanese Beginner Guide",
+  "description": "A comprehensive beginner roadmap and interactive learning guide for JLPT N5 with structured lessons, vocabulary flashcards, daily grammar practice, audio pronunciation, and AI sensei assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
